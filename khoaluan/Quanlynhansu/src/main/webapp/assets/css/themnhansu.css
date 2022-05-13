@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body{
+	background:url("../img/dhkh7.jpg");
+}
+.submit{
+	margin: auto;
+	width: 10%;
+}
+a{
+	text-decoration: none;
+}

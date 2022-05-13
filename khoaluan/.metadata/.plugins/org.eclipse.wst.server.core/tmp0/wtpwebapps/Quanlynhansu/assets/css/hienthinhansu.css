@@ -1,0 +1,21 @@
+@charset "UTF-8";
+*{ 
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+ }
+.no-padding {
+    padding: 0 !important;
+}
+body{
+	background:url("../img/dhkh7.jpg");
+}
+li:hover{
+	background-color: rgba(192, 192, 192, 1);
+	
+}
+a{
+	text-decoration: none;
+	color:black;
+}

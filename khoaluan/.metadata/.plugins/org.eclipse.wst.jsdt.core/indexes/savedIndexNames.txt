@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Dell\khoaluan\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2117937661.index
+1075794319.index
+1425871998.index
+602013463.index
+1376375840.index
+2003552012.index
+2664283842.index

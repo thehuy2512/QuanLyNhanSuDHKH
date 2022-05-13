@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+	background:url("../img/dhkh7.jpg");
+}
+li:hover{
+	background-color: rgba(192, 192, 192, 1);
+	
+}
+a{
+	text-decoration: none;
+	color:black;
+}
+.list-group.scroll{
+	height: 630px;
+    overflow: scroll;
+}

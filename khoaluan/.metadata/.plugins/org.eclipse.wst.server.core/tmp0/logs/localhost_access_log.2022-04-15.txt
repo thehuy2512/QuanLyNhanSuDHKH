@@ -1,0 +1,16 @@
+127.0.0.1 - - [15/Apr/2022:22:04:27 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:28 +0700] "GET /Quanlynhansu/ HTTP/1.1" 200 1887
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:28 +0700] "GET /Quanlynhansu/assets/css/login.css HTTP/1.1" 200 574
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:28 +0700] "GET /Quanlynhansu/assets/img/slideshow6.jpg HTTP/1.1" 200 387962
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:28 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:33 +0700] "POST /Quanlynhansu/TaiKhoanController HTTP/1.1" 200 8112
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:33 +0700] "GET /Quanlynhansu/assets/css/home.css HTTP/1.1" 200 688
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:33 +0700] "GET /Quanlynhansu/assets/img/slideshow1.jpg HTTP/1.1" 200 11912
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:33 +0700] "GET /Quanlynhansu/assets/img/slideshow2.jpg HTTP/1.1" 200 14478
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:34 +0700] "GET /Quanlynhansu/assets/img/slideshow3.jpg HTTP/1.1" 200 12003
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:34 +0700] "GET /Quanlynhansu/assets/img/pre65year.jpg HTTP/1.1" 200 500252
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:04:34 +0700] "GET /Quanlynhansu/assets/img/quangcaophai.jpg HTTP/1.1" 200 192069
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:16:16 +0700] "GET /Quanlynhansu/homeController HTTP/1.1" 200 8112
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:16:17 +0700] "GET /Quanlynhansu/quanlytudienController HTTP/1.1" 200 15194
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:16:17 +0700] "GET /Quanlynhansu/assets/css/quanlytudien.css HTTP/1.1" 200 171
+0:0:0:0:0:0:0:1 - - [15/Apr/2022:22:16:18 +0700] "GET /Quanlynhansu/homeController HTTP/1.1" 200 8112

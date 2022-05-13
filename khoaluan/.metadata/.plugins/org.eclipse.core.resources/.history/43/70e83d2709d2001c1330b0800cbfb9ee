@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body{
+	background:url("../img/dhkh7.jpg");
+}
+li:hover{
+	background-color: rgba(192, 192, 192, 0.5);
+	
+}
+a{
+	text-decoration: none;
+	color:black;
+}

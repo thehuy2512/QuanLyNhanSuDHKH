@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body{
+	background:url("../img/dhkh7.jpg");
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.loaitudien{
+	color: blue;
+}
+.tudien{
+	margin: 5px;
+
+}
+.chitiettudien {
+	margin-top: 5px;
+}
+

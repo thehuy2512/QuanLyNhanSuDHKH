@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Dell\khoaluan\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2150057803.index
+\Quanlynhansu\src\main\resources
+C:\Users\Dell\khoaluan\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2117937661.index
+\Quanlynhansu\src\main\java

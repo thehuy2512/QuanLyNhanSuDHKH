@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bean.TaiKhoanBean"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.dao.TaiKhoanDao"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bo.TaiKhoanBo"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.dao.LoaiTuDienDao"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bo.LoaiTuDienBo"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.dao.TuDienDao"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bean.LoaiTuDienBean"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bean.TuDienBean"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.Collection"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.dao.ChiTietTuDienDao"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bo.TuDienBo"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bo.PhongKhoaBo"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.dao.HoSoDao"/>
+    <fullyQualifiedTypeName name="java.util.PrimitiveIterator"/>
+    <fullyQualifiedTypeName name="org.apache.commons.fileupload.FileUploadException"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.text.ParseException"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.google.gson.Gson"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bean.HoSoBean"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bo.HoSoBo"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bean.ChiTietTuDienBean"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="com.quanlynhansu.model.bo.ChiTietTuDienBo"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>
