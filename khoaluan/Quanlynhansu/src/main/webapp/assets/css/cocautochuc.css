@@ -12,5 +12,5 @@ a{
 }
 .scroll{
 	height: 550px;
-    overflow: scroll;
+    overflow-y: scroll;
 }

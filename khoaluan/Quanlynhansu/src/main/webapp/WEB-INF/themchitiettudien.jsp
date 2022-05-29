@@ -24,7 +24,7 @@
 <h3>Tự điển : ${MaTD}</h3>
 
 	<div class="row">
-		<div class="col-6">
+		<div class="col-6 scroll">
 				<table class="table table-bordered">
 					<thead>
 						<tr>

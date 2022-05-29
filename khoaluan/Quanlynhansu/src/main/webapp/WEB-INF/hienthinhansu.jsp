@@ -40,7 +40,7 @@
 	  </ul>
 	  
     </div>
-    <div class="col-9">
+    <div class="col-9" style="border: 1px solid black;border-radius: 10px;padding: 10px">
 				<nav aria-label="Page navigation example" style="margin-right: 20px;">
 		            <ul class="pagination d-flex justify-content-end">
 		              <c:forEach begin="1" end="${endPage}" var="i">	  

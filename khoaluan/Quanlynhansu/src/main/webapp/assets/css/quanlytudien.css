@@ -19,4 +19,8 @@ li:hover{
 .chitiettudien {
 	margin-top: 5px;
 }
+.scroll{
+	overflow: scroll;
+	height: 500px;
+}
 

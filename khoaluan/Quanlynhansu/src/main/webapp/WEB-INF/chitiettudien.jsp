@@ -33,7 +33,7 @@
 					</li>				
 				</ul>
 		</div>
-		<div class="col-6">
+		<div class="col-6 scroll">
 				<table class="table table-bordered">
 					<thead>
 						<tr>
